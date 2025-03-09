@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Sensitive files
+credentials.json
+
+# Output files
+*.csv
+
+# macOS metadata
+.DS_Store
